@@ -79,7 +79,7 @@ Full Stack Developer with 2.8 years of experience in building user interfaces, s
 ## 📁 Top Repositories
 
 <div align="center">
-  <a href="https://github.com/ayesha-Siddiquah/salon-booking-system">
+  <a href="https://github.com/ayesha-Siddiquah/News-on-Tech">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayesha-Siddiquah&repo=salon-booking-system&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/ayesha-Siddiquah/Tourism_Site">
