@@ -80,7 +80,7 @@ Full Stack Developer with 2.8 years of experience in building user interfaces, s
 
 <div align="center">
   <a href="https://github.com/ayesha-Siddiquah/News-on-Tech">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayesha-Siddiquah&repo=salon-booking-system&theme=react&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayesha-Siddiquah&repo=News-on-Tech&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/ayesha-Siddiquah/Tourism_Site">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayesha-Siddiquah&repo=Tourism_Site&theme=react&hide_border=true" />
