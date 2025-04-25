@@ -58,7 +58,8 @@ src="https://img.shields.io/github/followers/ayesha-Siddiquah?logo=github&style=
 
 <h2 style="text-decoration: underline; font-size: 24px;">GitHub Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayesha-Siddiquah&bg_color=365314&color=000000&line=ef4444&point=000000&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="Ayesha's GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayesha-Siddiquah&theme=react-dark&custom_title=ayesha-Siddiquah's%20Contribution%20Graph" alt="Ayesha's GitHub Contribution Graph" />
 </p>
+
 
 
